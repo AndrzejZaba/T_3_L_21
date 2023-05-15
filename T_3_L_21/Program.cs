@@ -12,6 +12,7 @@
             {
                 Console.WriteLine("Witaj! podaj swoje imię: ");
                 var name = Console.ReadLine();
+
                 Console.WriteLine("\nTeraz podaj miejscowość z której pochodzisz: ");
                 var city = Console.ReadLine();
                 Console.WriteLine("\nA teraz podaj swoją datę urodzenia: (dd/mm/rrrr)");
